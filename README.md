@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nightshade4235
 - 👀 I’m interested in coding, writing and reading books
-- 🌱 I’m currently learning Asm, C, C# and piano
-- 💞️ I’m looking to collaborate on pretty much everything
-- 📫 How to reach me:- dont, jk discord[nightshade4235]
+- 🌱 I’m currently learning Asm, C, C#, CPP and piano
+- 📫 How to reach me:- dont, jk message me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cheese
 
