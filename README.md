@@ -18,4 +18,4 @@ Hello I am a person. I do some low level dev, novel writing, conlanging, physics
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=darkslategrey)
 ![Python](https://img.shields.io/badge/Python-A8B9CC.svg?logo=python&logoColor=darkslategrey)
-![ASM](https://img.shields.io/badge/Assembly-A8B9CC.svg?logo=asm&logoColor=darkslategrey)
+![ASM](https://img.shields.io/badge/Assembly-A8B9CC.svg?logo=assemblyscript&logoColor=darkslategrey)
