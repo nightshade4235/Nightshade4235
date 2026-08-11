@@ -10,11 +10,11 @@ Hello I am a person. I do some low level dev, novel writing, conlanging, physics
 
 * I like programming because machines are kalm.
 
-* I make code mostly for: ![Linux](https://img.shields.io/badge/Linux-C8A2C8.svg?logo=linux&logoColor=white)
+* I make code mostly for: ![Linux](https://img.shields.io/badge/Linux-A8B9CC.svg?logo=linux&logoColor=white)
 
 > warning: working with this person is a health hazard.
 
 ## Languages I use
 
-![C](https://img.shields.io/badge/C-C8A2C8.svg?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-C8A2C8.svg?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-A8B9CC.svg?logo=python&logoColor=white)
