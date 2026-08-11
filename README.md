@@ -16,5 +16,6 @@ Hello I am a person. I do some low level dev, novel writing, conlanging, physics
 
 ## Languages I use
 
-![C](https://img.shields.io/badge/C-555555.svg?logo=c&logoColor=navy)
-![Python](https://img.shields.io/badge/Python-A8B9CC.svg?logo=python&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=darkslategrey)
+![Python](https://img.shields.io/badge/Python-A8B9CC.svg?logo=python&logoColor=darkslategrey)
+![ASM](https://img.shields.io/badge/Assembly-A8B9CC.svg?logo=nasm&logoColor=darkslategrey)
